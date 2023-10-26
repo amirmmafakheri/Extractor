@@ -14,7 +14,7 @@ extensions = ['.3g2', '.3gp', '.7z', '.ai', '.aif', '.apk', '.arj', '.asp', '.as
         '.php6', '.php7', '.phps', '.pht', '.phtml', '.pkg', '.pl', '.png', '.pps', '.ppt', '.pptx', '.ps', '.psd', '.pst',
         '.py', '.rar', '.reg', '.rm', '.rpm', '.rss', '.rtf', '.sav', '.sh', '.shtml', '.sql', '.svg', '.swf', '.swift',
         '.sys', '.tar', '.tar.gz', '.tex', '.tif', '.tiff', '.tmp', '.toast', '.ttf', '.txt', '.vb', '.vcd', '.vcf', '.vob',
-        '.wav', '.wma', '.wmv', '.wpd', '.wpl', '.wsf', '.xhtml', '.xls', '.xlsm', '.xlsx', '.xml', '.z', '.zip'
+        '.wav', '.wma', '.wmv', '.wpd', '.wpl', '.wsf', '.xhtml', '.xls', '.xlsm', '.xlsx', '.xml', '.z', '.zip','json'
         ]
 
 def fetch_words_from_url(url, custom_headers=None, delay=0):
