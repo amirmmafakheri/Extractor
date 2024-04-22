@@ -5,7 +5,7 @@ import threading
 import time
 
 extensions = ['.3g2', '.3gp', '.7z', '.ai', '.aif', '.apk', '.arj', '.asp', '.aspx', '.avi', '.bak', '.bat', '.bin', '.bmp',
-        '.c', '.cab', '.cda', '.cer', '.cfg', '.cfm', '.cgi', '.class', '.cpl', '.cpp', '.cs', '.css', '.csv', '.cur', '.dat',
+        '.c', '.cab', '.cda', '.cer', '.cfg', '.cfm', '.cgi', '.class', '.cpl', '.css', '.csv', '.cur', '.dat',
         '.db', '.dbf', '.deb', '.dll', '.dmg', '.dmp', '.doc', '.docx', '.drv', '.email', '.eml', '.emlx', '.exe', '.flv',
         '.fnt', '.fon', '.gadget', '.gif', '.git', '.h', '.h264', '.hta', '.htm', '.html', '.icns', '.ico', '.inc', '.ini',
         '.iso', '.jar', '.java', '.jhtml', '.jpeg', '.jpg', '.js', '.jsa', '.jsp', '.key', '.lnk', '.log', '.m4v', '.mdb',
