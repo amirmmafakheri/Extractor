@@ -7,7 +7,7 @@ import time
 extensions = ['.3g2', '.3gp', '.7z', '.ai', '.aif', '.apk', '.arj', '.asp', '.aspx', '.avi', '.bak', '.bat', '.bin', '.bmp',
         '.cab', '.cda', '.cer', '.cfg', '.cfm', '.cgi', '.class', '.cpl', '.cpp', '.css', '.csv', '.cur', '.dat',
         '.db', '.dbf', '.deb', '.dll', '.dmg', '.dmp', '.doc', '.docx', '.drv', '.email', '.eml', '.emlx', '.exe', '.flv',
-        '.fnt', '.fon', '.gadget', '.gif', '.git', '.h', '.h264', '.hta', '.htm', '.html', '.icns', '.ico', '.inc', '.ini',
+        '.fnt', '.fon', '.gadget', '.gif', '.git', '.h264', '.hta', '.htm', '.html', '.icns', '.ico', '.inc', '.ini',
         '.iso', '.jar', '.java', '.jhtml', '.jpeg', '.jpg', '.js', '.jsa', '.jsp', '.key', '.lnk', '.log', '.m4v', '.mdb',
         '.mid', '.mkv', '.mov', '.mp3', '.mp4', '.mpa', '.mpeg', '.mpg', '.msg', '.msi', '.nsf', '.odp', '.ods', '.odt',
         '.oft', '.ogg', '.ost', '.otf', '.part', '.pcap', '.pdb', '.pdf', '.phar', '.php', '.php2', '.php3', '.php4', '.php5',
